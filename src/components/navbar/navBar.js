@@ -28,7 +28,12 @@ const NavBar = (props) => {
             <NavLink href="/volunteerRegister/">הרשמה כדגכדג</NavLink>
             <NavLink href="/volunteerRegister/">וןםוןכדגכדג</NavLink>
             <NavLink href="/volunteerRegister/">הרשמה םוןםןו</NavLink>
-            <NavLink href="/volunteerRegister/">הרשמה םןום</NavLink>
+            <NavLink href="/volunteerRegister/">הרשמה עגכעגכ</NavLink>
+            <NavLink href="/volunteerRegister/">הרשמה עכגעכג</NavLink>
+            <NavLink href="/volunteerRegister/">הרשמה נבהנ</NavLink>
+            <NavLink href="/volunteerRegister/">הרשמה נבה</NavLink>
+
+
           </NavItem>
         </Nav>
       </Collapse>
